@@ -1,10 +1,10 @@
 <p align='center'>
-  <b>Hi 👋, I'm @conrot </b><br>
-  <a href="https://github.com/conrot">Github</a>
+  <b>Hi 👋, !VARIZ#7721 </b><br>
+  <a href="https://github.com/DevBSys">Github</a>
 </p>
 <br>
 <p align="center"><br>
-  <a href="https://github.com/conrot">
+  <a href="https://github.com/DevBSys">
     <img src="https://lanyard-profile-readme.vercel.app/api/576422773694660608"/>
 	</a>
 </p>
